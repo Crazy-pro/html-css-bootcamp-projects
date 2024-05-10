@@ -6,7 +6,7 @@ HTML &amp; CSS Bootcamp Projects are a set of simple demo projects from 'The HTM
 ### How to start:
 - Just open any index.html file in browser.
 
- 
+
 
 ### Technologies:
 - Programming languages: JavaScript;
